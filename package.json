@@ -1,0 +1,19 @@
+{
+  "name": "staatic",
+  "version": "1.0.0",
+  "description": "Static site generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geowittejr/Staatic.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/geowittejr/Staatic/issues"
+  },
+  "homepage": "https://github.com/geowittejr/Staatic#readme"
+}
